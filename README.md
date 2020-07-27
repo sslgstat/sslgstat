@@ -12,7 +12,7 @@
 
 <!-----Social Profile Buttons------>
 
-<a href="https://twitter.com/sslgstat">
+<a href="https://twitter.com/pvishnuvamsee">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pvishnuvamsee/">
