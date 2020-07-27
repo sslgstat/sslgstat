@@ -39,7 +39,7 @@
 
 <!-----Top Languages------>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=light" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=light" />
 
 
 <!----- Github Stars ----->
