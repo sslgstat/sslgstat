@@ -3,25 +3,22 @@
 <!--
 **sslgstat/sslgstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-khedkar-231201/)](https://www.linkedin.com/in/atharva-khedkar-231201/)
+[![Linkedin: Vishnu](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pvishnuvamsee/)](https://www.linkedin.com/in/pvishnuvamsee/)
 <br/>
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Machine Learning.
-- 💬 Ask me about Flutter, Dart.
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Machine Learning and Cloud.
+- 💬 Ask me about Google Cloud.
 - 📲 Connect with me on:  👇🏻
 
 <!-----Social Profile Buttons------>
 
-<a href="https://twitter.com/KhedkarAtharva">
+<a href="https://twitter.com/sslgstat">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/atharva-khedkar-231201/">
+<a href="https://www.linkedin.com/in/pvishnuvamsee/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/a_pk23">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/atharva_khedkar23/">
+<a href="https://www.instagram.com/pvishnuvamsee/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -39,10 +36,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png"></code>
 
 <!-----Top Languages------>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=light" />
 
 
 
