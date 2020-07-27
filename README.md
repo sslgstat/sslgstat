@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning and Cloud.
 - 💬 Ask me about Google Cloud.
-- 📲 Connect with me on:  👇🏻
+- 📲 Connect with me on:  👇
 
 <!-----Social Profile Buttons------>
 
