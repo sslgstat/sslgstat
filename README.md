@@ -1,5 +1,5 @@
 ### Hi there,I'm Vishnu 👋
-
+---
 <!--
 **sslgstat/sslgstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -39,8 +39,8 @@
 
 <!-----Top Languages------>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgstat&theme=light" />
 
 
 <!----- Github Stars ----->
-<img align="right" src = "https://github-readme-stats.vercel.app/api?username=sslgstat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=sslgstat&&show_icons=true&title_color=7957d5&icon_color=ff3860&text_color=363636&bg_color=ffffff">
