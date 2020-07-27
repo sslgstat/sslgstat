@@ -1,7 +1,7 @@
 ### Hi there,I'm Vishnu 👋
 
 <!--
-**sslgstat/sslgstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sslgstat/sslgstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![Linkedin: Vishnu](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pvishnuvamsee/)](https://www.linkedin.com/in/pvishnuvamsee/)
 <br/>
