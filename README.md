@@ -6,8 +6,8 @@
 [![Linkedin: Vishnu](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pvishnuvamsee/)](https://www.linkedin.com/in/pvishnuvamsee/)
 <br/>
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Machine Learning and Cloud.
-- 💬 Ask me about Google Cloud.
+- 🌱 I’m currently learning Machine Learning and Exploring Cloud Platforms.
+- 💬 Ask me about Google Cloud Platform.
 - 📲 Connect with me on:  👇
 
 <!-----Social Profile Buttons------>
